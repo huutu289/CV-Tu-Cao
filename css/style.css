@@ -1,0 +1,27 @@
+.my-class {
+    margin-left: -4px;
+    opacity: 1 !important;
+    font-size: 1.5rem;
+    color: #0e0e0e;
+    background-color: #e8e8e8;
+    box-shadow: 1px 1px 1px #e0e0e0;
+}
+.my-class h5{
+    color: #666;
+}
+.my-class img{
+    margin-right: 10px;
+}
+.visible{
+    color: rgb(72, 72, 72);
+    /* font-weight: bold; */
+    margin-right: 5px;
+}
+.hidden{
+    color: rgb(228, 228, 228);
+    margin-right: 5px;
+}
+a{
+    text-decoration: none !important;
+    font-size: 1.4rem !important;
+}
