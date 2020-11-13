@@ -25,3 +25,10 @@ a{
     text-decoration: none !important;
     font-size: 1.4rem !important;
 }
+.img-wrapper{
+    display: flex;
+}
+.img-wrapper .rotate{
+    transform: rotate(-90deg);
+    flex: 1;
+}
